@@ -1,4 +1,4 @@
-name: "Exemple de workflow"
+name: "User Greetings"
 on:
   push:
     branches:
